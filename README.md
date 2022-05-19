@@ -1,2 +1,2 @@
 # im-smuze.github.io
-Blog
+Welcome
